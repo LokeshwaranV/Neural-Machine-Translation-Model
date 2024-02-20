@@ -4,7 +4,7 @@
 
 Welcome to the project on Neural Machine Translation (NMT) model building as part of your course on Natural Language Processing. This project focuses on building an attention-based sequence-to-sequence model for translating Spanish sentences to English. The goal is to help a US-based life insurance company communicate effectively with the Spanish-speaking community in Mexico by providing a machine translation model for application request letters.
 
-<img src="https://www.fmai-hub.com/wp-content/uploads/2023/10/skin-cancer.png" alt="image" width="600" >
+<img src="NMT.jpg" alt="image" width="600" >
 
 ### Background
 
